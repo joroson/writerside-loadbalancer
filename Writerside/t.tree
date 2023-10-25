@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="t"
+                 name="Training"
+                 start-page="training.md">
+
+    <toc-element topic="training.md"/>
+    <toc-element topic="GSLB.md">
+        <toc-element topic="gslb-configuration.md">
+            <toc-element topic="gslb-configuration-dns-setup.md"/>
+            <toc-element topic="gslb-configuration-global-names.md"/>
+            <toc-element topic="gslb-configuration-members.md"/>
+            <toc-element topic="gslb-configuration-pools.md"/>
+            <toc-element topic="gslb-configuration-topologies.md"/>
+        </toc-element>
+        <toc-element topic="gslb-troubleshooting.md"/>
+    </toc-element>
+    <toc-element topic="training_LSCP.md">
+        <toc-element topic="what-is-a-load-balancer.md"/>
+        <toc-element topic="Why-Loadbalancer-org.md"/>
+        <toc-element topic="The-Loadbalancer-Appliances.md"/>
+    </toc-element>
+</instance-profile>

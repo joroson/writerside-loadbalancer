@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="LB"
+                 name="Loadbalancer"
+                 start-page="Default-topic.md">
+
+    <toc-element topic="Overview.md"/>
+    <toc-element topic="Professional-Services.md"/>
+    <toc-element topic="Knowledgebase.md">
+        <toc-element topic="global-server-load-balancing.md">
+        </toc-element>
+    </toc-element>
+    <toc-element topic="Partners.md">
+        <toc-element topic="partners_cloudian.md">
+            <toc-element topic="partners_cloudian_understanding-hyperbalance.md">
+                <toc-element topic="partners_cloudian_understanding-hyperbalance_sizing-guide.md"/>
+                <toc-element topic="partners_cloudian_understanding-hyperbalance_deployment.md"/>
+                <toc-element topic="partners_cloudian_understanding-hyperbalance_methods.md"/>
+                <toc-element topic="partners_cloudian_understanding-hyperbalance_features.md"/>
+                <toc-element topic="partners_cloudian_understanding-hyperbalance_faqs.md"/>
+            </toc-element>
+        </toc-element>
+    </toc-element>
+    <toc-element topic="Troubleshooting.md"/>
+    <toc-element topic="know_gslb_sdns.md"/>
+</instance-profile>
